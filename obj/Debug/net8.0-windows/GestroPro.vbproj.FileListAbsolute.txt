@@ -25,3 +25,4 @@ C:\Users\ilanr\source\repos\GestroPro\obj\Debug\net8.0-windows\ref\GestroPro.dll
 C:\Users\ilanr\source\repos\GestroPro\obj\Debug\net8.0-windows\GestroPro.frmPrincipal.resources
 C:\Users\ilanr\source\repos\GestroPro\obj\Debug\net8.0-windows\GestroPro.frmProductos.resources
 C:\Users\ilanr\source\repos\GestroPro\obj\Debug\net8.0-windows\GestroPro.frmUsuarios.resources
+C:\Users\ilanr\source\repos\GestroPro\obj\Debug\net8.0-windows\GestroPro.sourcelink.json

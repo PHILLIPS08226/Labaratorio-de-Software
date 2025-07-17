@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\ilanr\\source\\repos\\GestroPro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|c:\\users\\ilanr\\source\\repos\\gestropro\\presentacion\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|solutionrelative:presentacion\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|c:\\users\\ilanr\\source\\repos\\gestropro\\presentacion\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|solutionrelative:presentacion\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|c:\\users\\ilanr\\source\\repos\\gestropro\\presentacion\\frmprincipal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|solutionrelative:presentacion\\frmprincipal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|c:\\users\\ilanr\\source\\repos\\gestropro\\presentacion\\frmprincipal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|solutionrelative:presentacion\\frmprincipal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|c:\\users\\ilanr\\source\\repos\\gestropro\\negocio\\usuariobll.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|solutionrelative:negocio\\usuariobll.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|c:\\users\\ilanr\\source\\repos\\gestropro\\acceso a datos\\usuariodao.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|solutionrelative:acceso a datos\\usuariodao.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|c:\\users\\ilanr\\source\\repos\\gestropro\\presentacion\\frmusuarios.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|solutionrelative:presentacion\\frmusuarios.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|c:\\users\\ilanr\\source\\repos\\gestropro\\entidades\\seguridad.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|solutionrelative:entidades\\seguridad.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|c:\\users\\ilanr\\source\\repos\\gestropro\\presentacion\\frmusuarios.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|solutionrelative:presentacion\\frmusuarios.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,86 +26,65 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "frmPrincipal.vb",
-              "DocumentMoniker": "C:\\Users\\ilanr\\source\\repos\\GestroPro\\Presentacion\\frmPrincipal.vb",
-              "RelativeDocumentMoniker": "Presentacion\\frmPrincipal.vb",
-              "ToolTip": "C:\\Users\\ilanr\\source\\repos\\GestroPro\\Presentacion\\frmPrincipal.vb",
-              "RelativeToolTip": "Presentacion\\frmPrincipal.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-07-15T03:12:20.106Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "frmPrincipal.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\ilanr\\source\\repos\\GestroPro\\Presentacion\\frmPrincipal.vb",
-              "RelativeDocumentMoniker": "Presentacion\\frmPrincipal.vb",
-              "ToolTip": "C:\\Users\\ilanr\\source\\repos\\GestroPro\\Presentacion\\frmPrincipal.vb [Design]",
-              "RelativeToolTip": "Presentacion\\frmPrincipal.vb [Design]",
+              "Title": "Seguridad.vb",
+              "DocumentMoniker": "C:\\Users\\ilanr\\source\\repos\\GestroPro\\Entidades\\Seguridad.vb",
+              "RelativeDocumentMoniker": "Entidades\\Seguridad.vb",
+              "ToolTip": "C:\\Users\\ilanr\\source\\repos\\GestroPro\\Entidades\\Seguridad.vb",
+              "RelativeToolTip": "Entidades\\Seguridad.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-07-15T03:01:49.811Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-07-17T05:05:40.878Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "frmLogin.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\ilanr\\source\\repos\\GestroPro\\Presentacion\\frmLogin.vb",
-              "RelativeDocumentMoniker": "Presentacion\\frmLogin.vb",
-              "ToolTip": "C:\\Users\\ilanr\\source\\repos\\GestroPro\\Presentacion\\frmLogin.vb [Design]",
-              "RelativeToolTip": "Presentacion\\frmLogin.vb [Design]",
+              "Title": "frmUsuarios.vb",
+              "DocumentMoniker": "C:\\Users\\ilanr\\source\\repos\\GestroPro\\Presentacion\\frmUsuarios.vb",
+              "RelativeDocumentMoniker": "Presentacion\\frmUsuarios.vb",
+              "ToolTip": "C:\\Users\\ilanr\\source\\repos\\GestroPro\\Presentacion\\frmUsuarios.vb",
+              "RelativeToolTip": "Presentacion\\frmUsuarios.vb",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAwwJcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-07-14T00:20:47.21Z",
+              "WhenOpened": "2025-07-17T04:15:33.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmUsuarios.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ilanr\\source\\repos\\GestroPro\\Presentacion\\frmUsuarios.vb",
+              "RelativeDocumentMoniker": "Presentacion\\frmUsuarios.vb",
+              "ToolTip": "C:\\Users\\ilanr\\source\\repos\\GestroPro\\Presentacion\\frmUsuarios.vb [Design]",
+              "RelativeToolTip": "Presentacion\\frmUsuarios.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-17T04:15:30.912Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "frmLogin.vb",
-              "DocumentMoniker": "C:\\Users\\ilanr\\source\\repos\\GestroPro\\Presentacion\\frmLogin.vb",
-              "RelativeDocumentMoniker": "Presentacion\\frmLogin.vb",
-              "ToolTip": "C:\\Users\\ilanr\\source\\repos\\GestroPro\\Presentacion\\frmLogin.vb",
-              "RelativeToolTip": "Presentacion\\frmLogin.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-07-14T01:28:56.417Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "UsuarioDAO.vb",
               "DocumentMoniker": "C:\\Users\\ilanr\\source\\repos\\GestroPro\\Acceso a Datos\\UsuarioDAO.vb",
               "RelativeDocumentMoniker": "Acceso a Datos\\UsuarioDAO.vb",
               "ToolTip": "C:\\Users\\ilanr\\source\\repos\\GestroPro\\Acceso a Datos\\UsuarioDAO.vb",
               "RelativeToolTip": "Acceso a Datos\\UsuarioDAO.vb",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAYwF8AAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-07-14T01:11:27.218Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UsuarioBLL.vb",
-              "DocumentMoniker": "C:\\Users\\ilanr\\source\\repos\\GestroPro\\Negocio\\UsuarioBLL.vb",
-              "RelativeDocumentMoniker": "Negocio\\UsuarioBLL.vb",
-              "ToolTip": "C:\\Users\\ilanr\\source\\repos\\GestroPro\\Negocio\\UsuarioBLL.vb",
-              "RelativeToolTip": "Negocio\\UsuarioBLL.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-07-14T01:09:31.739Z",
+              "WhenOpened": "2025-07-17T03:57:21.253Z",
               "EditorCaption": ""
             }
           ]

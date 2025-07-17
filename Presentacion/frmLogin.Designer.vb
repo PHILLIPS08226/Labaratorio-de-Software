@@ -32,7 +32,7 @@ Partial Class frmLogin
         ' Label1
         ' 
         Label1.AutoSize = True
-        Label1.Location = New Point(316, 148)
+        Label1.Location = New Point(109, 73)
         Label1.Name = "Label1"
         Label1.Size = New Size(47, 15)
         Label1.TabIndex = 0
@@ -41,7 +41,7 @@ Partial Class frmLogin
         ' Label2
         ' 
         Label2.AutoSize = True
-        Label2.Location = New Point(296, 180)
+        Label2.Location = New Point(89, 105)
         Label2.Name = "Label2"
         Label2.Size = New Size(67, 15)
         Label2.TabIndex = 1
@@ -49,21 +49,22 @@ Partial Class frmLogin
         ' 
         ' txtUsuario
         ' 
-        txtUsuario.Location = New Point(369, 140)
+        txtUsuario.Location = New Point(162, 65)
         txtUsuario.Name = "txtUsuario"
         txtUsuario.Size = New Size(100, 23)
         txtUsuario.TabIndex = 2
         ' 
         ' txtPwd
         ' 
-        txtPwd.Location = New Point(369, 177)
+        txtPwd.Location = New Point(162, 102)
         txtPwd.Name = "txtPwd"
+        txtPwd.PasswordChar = "*"
         txtPwd.Size = New Size(100, 23)
         txtPwd.TabIndex = 3
         ' 
         ' btnIniciarSesion
         ' 
-        btnIniciarSesion.Location = New Point(374, 225)
+        btnIniciarSesion.Location = New Point(167, 150)
         btnIniciarSesion.Name = "btnIniciarSesion"
         btnIniciarSesion.Size = New Size(75, 23)
         btnIniciarSesion.TabIndex = 4
@@ -74,7 +75,7 @@ Partial Class frmLogin
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
-        ClientSize = New Size(800, 450)
+        ClientSize = New Size(397, 251)
         Controls.Add(btnIniciarSesion)
         Controls.Add(txtPwd)
         Controls.Add(txtUsuario)

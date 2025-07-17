@@ -5,6 +5,17 @@
         End If
 
         Dim dao As New UsuarioDAO()
-        Return dao.VerificarCredenciales(usuario, contraseña)
+        Dim hash = Seguridad.ObtenerHashSHA256(contraseña)
+        Return dao.VerificarCredenciales(usuario, hash)
     End Function
+
+    Public Function ObtenerTodos() As DataTable
+        Dim dao As New UsuarioDAO()
+        Return dao.ObtenerTodos()
+    End Function
+
+    Public Sub InicializarSistema()
+        Dim dao As New UsuarioDAO()
+        dao.VerificarYCrearRoles()
+    End Sub
 End Class
