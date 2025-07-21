@@ -43,9 +43,17 @@ Partial Class frmUsuarios
         ' 
         ' dtgUsuarios
         ' 
+        dtgUsuarios.AllowUserToAddRows = False
+        dtgUsuarios.AllowUserToDeleteRows = False
+        dtgUsuarios.AllowUserToResizeColumns = False
+        dtgUsuarios.AllowUserToResizeRows = False
+        dtgUsuarios.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill
+        dtgUsuarios.AutoSizeRowsMode = DataGridViewAutoSizeRowsMode.AllHeaders
         dtgUsuarios.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize
         dtgUsuarios.Location = New Point(330, 51)
         dtgUsuarios.Name = "dtgUsuarios"
+        dtgUsuarios.ReadOnly = True
+        dtgUsuarios.ShowEditingIcon = False
         dtgUsuarios.Size = New Size(441, 220)
         dtgUsuarios.TabIndex = 0
         ' 
