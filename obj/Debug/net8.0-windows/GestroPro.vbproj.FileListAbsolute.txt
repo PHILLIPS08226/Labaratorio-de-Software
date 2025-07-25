@@ -54,3 +54,4 @@ C:\Users\dayer\Downloads\Labaratorio-de-Software-main (4)\Labaratorio-de-Softwar
 C:\Users\dayer\Downloads\Labaratorio-de-Software-main (4)\Labaratorio-de-Software-main\obj\Debug\net8.0-windows\GestroPro.genruntimeconfig.cache
 C:\Users\dayer\Downloads\Labaratorio-de-Software-main (4)\Labaratorio-de-Software-main\obj\Debug\net8.0-windows\ref\GestroPro.dll
 C:\Users\dayer\Downloads\Labaratorio-de-Software-main (4)\Labaratorio-de-Software-main\obj\Debug\net8.0-windows\GestroPro.Resources.resources
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main (4)\Labaratorio-de-Software-main\obj\Debug\net8.0-windows\GestroPro.sourcelink.json

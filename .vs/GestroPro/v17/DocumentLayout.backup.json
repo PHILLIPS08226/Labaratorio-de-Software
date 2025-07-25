@@ -3,36 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main (4)\\Labaratorio-de-Software-main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|c:\\users\\dayer\\downloads\\labaratorio-de-software-main (4)\\labaratorio-de-software-main\\presentacion\\frmproductos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|solutionrelative:presentacion\\frmproductos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|c:\\users\\dayer\\downloads\\labaratorio-de-software-main (4)\\labaratorio-de-software-main\\entidades\\producto.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|solutionrelative:entidades\\producto.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|c:\\users\\dayer\\downloads\\labaratorio-de-software-main (4)\\labaratorio-de-software-main\\acceso a datos\\productodao.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|solutionrelative:acceso a datos\\productodao.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|c:\\users\\dayer\\downloads\\labaratorio-de-software-main (4)\\labaratorio-de-software-main\\presentacion\\frmproductos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|solutionrelative:presentacion\\frmproductos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|c:\\users\\dayer\\downloads\\labaratorio-de-software-main (4)\\labaratorio-de-software-main\\presentacion\\frmusuarios.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|solutionrelative:presentacion\\frmusuarios.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|c:\\users\\dayer\\downloads\\labaratorio-de-software-main (4)\\labaratorio-de-software-main\\presentacion\\frmproductos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|solutionrelative:presentacion\\frmproductos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|c:\\users\\dayer\\downloads\\labaratorio-de-software-main (4)\\labaratorio-de-software-main\\presentacion\\frmprincipal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|solutionrelative:presentacion\\frmprincipal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|c:\\users\\dayer\\downloads\\labaratorio-de-software-main (4)\\labaratorio-de-software-main\\presentacion\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|solutionrelative:presentacion\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|c:\\users\\dayer\\downloads\\labaratorio-de-software-main (4)\\labaratorio-de-software-main\\acceso a datos\\productodao.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|solutionrelative:acceso a datos\\productodao.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|c:\\users\\dayer\\downloads\\labaratorio-de-software-main (4)\\labaratorio-de-software-main\\acceso a datos\\usuariodao.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|solutionrelative:acceso a datos\\usuariodao.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|c:\\users\\dayer\\downloads\\labaratorio-de-software-main (4)\\labaratorio-de-software-main\\presentacion\\frmusuarios.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|solutionrelative:presentacion\\frmusuarios.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|c:\\users\\dayer\\downloads\\labaratorio-de-software-main (4)\\labaratorio-de-software-main\\presentacion\\frmusuarios.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|solutionrelative:presentacion\\frmusuarios.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|c:\\users\\dayer\\downloads\\labaratorio-de-software-main (4)\\labaratorio-de-software-main\\entidades\\usuario.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|solutionrelative:entidades\\usuario.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|c:\\users\\dayer\\downloads\\labaratorio-de-software-main (4)\\labaratorio-de-software-main\\presentacion\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|solutionrelative:presentacion\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|c:\\users\\dayer\\downloads\\labaratorio-de-software-main (4)\\labaratorio-de-software-main\\presentacion\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|solutionrelative:presentacion\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|c:\\users\\dayer\\downloads\\labaratorio-de-software-main (4)\\labaratorio-de-software-main\\presentacion\\frmlogin.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|solutionrelative:presentacion\\frmlogin.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|c:\\users\\dayer\\downloads\\labaratorio-de-software-main (4)\\labaratorio-de-software-main\\entidades\\producto.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|solutionrelative:entidades\\producto.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|c:\\users\\dayer\\downloads\\labaratorio-de-software-main (4)\\labaratorio-de-software-main\\presentacion\\frmproductos.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
@@ -66,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,43 +94,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "frmUsuarios.vb [Dise\u00F1o]",
+              "DocumentIndex": 5,
+              "Title": "frmUsuarios.vb",
               "DocumentMoniker": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main (4)\\Labaratorio-de-Software-main\\Presentacion\\frmUsuarios.vb",
               "RelativeDocumentMoniker": "Presentacion\\frmUsuarios.vb",
-              "ToolTip": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main (4)\\Labaratorio-de-Software-main\\Presentacion\\frmUsuarios.vb [Dise\u00F1o]",
-              "RelativeToolTip": "Presentacion\\frmUsuarios.vb [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main (4)\\Labaratorio-de-Software-main\\Presentacion\\frmUsuarios.vb",
+              "RelativeToolTip": "Presentacion\\frmUsuarios.vb",
+              "ViewState": "AgIAABgAAAAAAAAAAAAgwDsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-07-23T23:21:22.868Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-07-24T01:30:02.395Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "frmProductos.vb [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main (4)\\Labaratorio-de-Software-main\\Presentacion\\frmProductos.vb",
-              "RelativeDocumentMoniker": "Presentacion\\frmProductos.vb",
-              "ToolTip": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main (4)\\Labaratorio-de-Software-main\\Presentacion\\frmProductos.vb [Dise\u00F1o]",
-              "RelativeToolTip": "Presentacion\\frmProductos.vb [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-07-23T23:21:21.941Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "frmLogin.vb [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main (4)\\Labaratorio-de-Software-main\\Presentacion\\frmLogin.vb",
-              "RelativeDocumentMoniker": "Presentacion\\frmLogin.vb",
-              "ToolTip": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main (4)\\Labaratorio-de-Software-main\\Presentacion\\frmLogin.vb [Dise\u00F1o]",
-              "RelativeToolTip": "Presentacion\\frmLogin.vb [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-07-23T23:21:15.584Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "frmPrincipal.vb [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main (4)\\Labaratorio-de-Software-main\\Presentacion\\frmPrincipal.vb",
               "RelativeDocumentMoniker": "Presentacion\\frmPrincipal.vb",
@@ -126,19 +119,121 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "frmProductos.vb",
+              "DocumentIndex": 1,
+              "Title": "frmProductos.vb [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main (4)\\Labaratorio-de-Software-main\\Presentacion\\frmProductos.vb",
               "RelativeDocumentMoniker": "Presentacion\\frmProductos.vb",
-              "ToolTip": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main (4)\\Labaratorio-de-Software-main\\Presentacion\\frmProductos.vb",
-              "RelativeToolTip": "Presentacion\\frmProductos.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main (4)\\Labaratorio-de-Software-main\\Presentacion\\frmProductos.vb [Dise\u00F1o]*",
+              "RelativeToolTip": "Presentacion\\frmProductos.vb [Dise\u00F1o]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-07-23T23:28:36.371Z"
+              "WhenOpened": "2025-07-23T23:21:21.941Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "frmProductos.vb",
+              "DocumentMoniker": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main (4)\\Labaratorio-de-Software-main\\Presentacion\\frmProductos.vb",
+              "RelativeDocumentMoniker": "Presentacion\\frmProductos.vb",
+              "ToolTip": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main (4)\\Labaratorio-de-Software-main\\Presentacion\\frmProductos.vb*",
+              "RelativeToolTip": "Presentacion\\frmProductos.vb*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-23T23:28:36.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioDAO.vb",
+              "DocumentMoniker": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main (4)\\Labaratorio-de-Software-main\\Acceso a Datos\\UsuarioDAO.vb",
+              "RelativeDocumentMoniker": "Acceso a Datos\\UsuarioDAO.vb",
+              "ToolTip": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main (4)\\Labaratorio-de-Software-main\\Acceso a Datos\\UsuarioDAO.vb",
+              "RelativeToolTip": "Acceso a Datos\\UsuarioDAO.vb",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAwwAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-25T01:05:36.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductoDAO.vb",
+              "DocumentMoniker": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main (4)\\Labaratorio-de-Software-main\\Acceso a Datos\\ProductoDAO.vb",
+              "RelativeDocumentMoniker": "Acceso a Datos\\ProductoDAO.vb",
+              "ToolTip": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main (4)\\Labaratorio-de-Software-main\\Acceso a Datos\\ProductoDAO.vb",
+              "RelativeToolTip": "Acceso a Datos\\ProductoDAO.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-23T23:35:11.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmUsuarios.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main (4)\\Labaratorio-de-Software-main\\Presentacion\\frmUsuarios.vb",
+              "RelativeDocumentMoniker": "Presentacion\\frmUsuarios.vb",
+              "ToolTip": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main (4)\\Labaratorio-de-Software-main\\Presentacion\\frmUsuarios.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\frmUsuarios.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-23T23:21:22.868Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Usuario.vb",
+              "DocumentMoniker": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main (4)\\Labaratorio-de-Software-main\\Entidades\\Usuario.vb",
+              "RelativeDocumentMoniker": "Entidades\\Usuario.vb",
+              "ToolTip": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main (4)\\Labaratorio-de-Software-main\\Entidades\\Usuario.vb",
+              "RelativeToolTip": "Entidades\\Usuario.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-25T01:05:24.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmLogin.vb",
+              "DocumentMoniker": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main (4)\\Labaratorio-de-Software-main\\Presentacion\\frmLogin.vb",
+              "RelativeDocumentMoniker": "Presentacion\\frmLogin.vb",
+              "ToolTip": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main (4)\\Labaratorio-de-Software-main\\Presentacion\\frmLogin.vb",
+              "RelativeToolTip": "Presentacion\\frmLogin.vb",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-25T01:04:59.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmLogin.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main (4)\\Labaratorio-de-Software-main\\Presentacion\\frmLogin.vb",
+              "RelativeDocumentMoniker": "Presentacion\\frmLogin.vb",
+              "ToolTip": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main (4)\\Labaratorio-de-Software-main\\Presentacion\\frmLogin.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\frmLogin.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-23T23:21:15.584Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmLogin.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main (4)\\Labaratorio-de-Software-main\\Presentacion\\frmLogin.Designer.vb",
+              "RelativeDocumentMoniker": "Presentacion\\frmLogin.Designer.vb",
+              "ToolTip": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main (4)\\Labaratorio-de-Software-main\\Presentacion\\frmLogin.Designer.vb",
+              "RelativeToolTip": "Presentacion\\frmLogin.Designer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-25T01:04:54.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Producto.vb",
               "DocumentMoniker": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main (4)\\Labaratorio-de-Software-main\\Entidades\\Producto.vb",
               "RelativeDocumentMoniker": "Entidades\\Producto.vb",
@@ -150,19 +245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductoDAO.vb",
-              "DocumentMoniker": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main (4)\\Labaratorio-de-Software-main\\Acceso a Datos\\ProductoDAO.vb",
-              "RelativeDocumentMoniker": "Acceso a Datos\\ProductoDAO.vb",
-              "ToolTip": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main (4)\\Labaratorio-de-Software-main\\Acceso a Datos\\ProductoDAO.vb",
-              "RelativeToolTip": "Acceso a Datos\\ProductoDAO.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-07-23T23:35:11.128Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "frmProductos.resx",
               "DocumentMoniker": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main (4)\\Labaratorio-de-Software-main\\Presentacion\\frmProductos.resx",
               "RelativeDocumentMoniker": "Presentacion\\frmProductos.resx",
@@ -174,19 +257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "frmUsuarios.vb",
-              "DocumentMoniker": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main (4)\\Labaratorio-de-Software-main\\Presentacion\\frmUsuarios.vb",
-              "RelativeDocumentMoniker": "Presentacion\\frmUsuarios.vb",
-              "ToolTip": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main (4)\\Labaratorio-de-Software-main\\Presentacion\\frmUsuarios.vb",
-              "RelativeToolTip": "Presentacion\\frmUsuarios.vb",
-              "ViewState": "AgIAAJwAAAAAAAAAAAAowMgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-07-24T01:30:02.395Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "frmProductos.Designer.vb",
               "DocumentMoniker": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main (4)\\Labaratorio-de-Software-main\\Presentacion\\frmProductos.Designer.vb",
               "RelativeDocumentMoniker": "Presentacion\\frmProductos.Designer.vb",
@@ -199,7 +270,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "frmPrincipal.vb",
               "DocumentMoniker": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main (4)\\Labaratorio-de-Software-main\\Presentacion\\frmPrincipal.vb",
               "RelativeDocumentMoniker": "Presentacion\\frmPrincipal.vb",
@@ -211,7 +282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "frmPrincipal.Designer.vb",
               "DocumentMoniker": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main (4)\\Labaratorio-de-Software-main\\Presentacion\\frmPrincipal.Designer.vb",
               "RelativeDocumentMoniker": "Presentacion\\frmPrincipal.Designer.vb",
@@ -219,11 +290,12 @@
               "RelativeToolTip": "Presentacion\\frmPrincipal.Designer.vb",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-07-24T01:26:30.956Z"
+              "WhenOpened": "2025-07-24T01:26:30.956Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "RolDAO.vb",
               "DocumentMoniker": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main (4)\\Labaratorio-de-Software-main\\Acceso a Datos\\RolDAO.vb",
               "RelativeDocumentMoniker": "Acceso a Datos\\RolDAO.vb",
@@ -235,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "UsuarioBLL.vb",
               "DocumentMoniker": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main (4)\\Labaratorio-de-Software-main\\Negocio\\UsuarioBLL.vb",
               "RelativeDocumentMoniker": "Negocio\\UsuarioBLL.vb",

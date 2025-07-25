@@ -4,6 +4,7 @@ Public Class frmProductos
     Private Sub CargarProductos()
         Dim dt As DataTable = dao.ObtenerTodosLosProductos()
         dgvProductos.DataSource = dt
+
     End Sub
 
 
@@ -41,6 +42,7 @@ Public Class frmProductos
 
         dao.InsertarProducto(producto)
         MessageBox.Show("¡Producto guardado correctamente!")
+        CargarProductos()
         LimpiarCampos()
     End Sub
 
@@ -74,12 +76,7 @@ Public Class frmProductos
         LimpiarCampos()
     End Sub
 
-    Private Sub btnActualizar_Click(sender As Object, e As EventArgs) Handles btnActualizar.Click
 
-        Dim dt As DataTable = dao.ObtenerTodosLosProductos()
-        dgvProductos.DataSource = dt
-
-    End Sub
 
     Private Sub btnBuscar_Click(sender As Object, e As EventArgs) Handles btnBuscar.Click
         Dim nombreBuscado As String = txtBuscar.Text.Trim()
@@ -94,4 +91,12 @@ Public Class frmProductos
 
 
     End Sub
+
+
+
+
+
+
+
+
 End Class

@@ -37,7 +37,6 @@ Partial Class frmProductos
         btnGuardar = New Button()
         btnEditar = New Button()
         btnEliminar = New Button()
-        btnActualizar = New Button()
         txtBuscar = New TextBox()
         btnBuscar = New Button()
         GroupBox1.SuspendLayout()
@@ -183,16 +182,6 @@ Partial Class frmProductos
         btnEliminar.Text = "Eliminar"
         btnEliminar.UseVisualStyleBackColor = True
         ' 
-        ' btnActualizar
-        ' 
-        btnActualizar.Font = New Font("Dutch801 Rm BT", 11.25F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
-        btnActualizar.Location = New Point(771, 219)
-        btnActualizar.Name = "btnActualizar"
-        btnActualizar.Size = New Size(84, 38)
-        btnActualizar.TabIndex = 5
-        btnActualizar.Text = "Actualizar"
-        btnActualizar.UseVisualStyleBackColor = True
-        ' 
         ' txtBuscar
         ' 
         txtBuscar.Font = New Font("Dutch801 Rm BT", 11.25F, FontStyle.Bold)
@@ -213,14 +202,13 @@ Partial Class frmProductos
         ' 
         ' frmProductos
         ' 
-        AutoScaleDimensions = New SizeF(7.0F, 15.0F)
+        AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
         BackgroundImage = My.Resources.Resources.ImgProduc
         BackgroundImageLayout = ImageLayout.Stretch
         ClientSize = New Size(920, 499)
         Controls.Add(btnBuscar)
         Controls.Add(txtBuscar)
-        Controls.Add(btnActualizar)
         Controls.Add(btnEliminar)
         Controls.Add(btnEditar)
         Controls.Add(btnGuardar)
@@ -251,7 +239,6 @@ Partial Class frmProductos
     Friend WithEvents btnGuardar As Button
     Friend WithEvents btnEditar As Button
     Friend WithEvents btnEliminar As Button
-    Friend WithEvents btnActualizar As Button
     Friend WithEvents txtBuscar As TextBox
     Friend WithEvents btnBuscar As Button
 End Class

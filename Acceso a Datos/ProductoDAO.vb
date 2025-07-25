@@ -4,6 +4,9 @@
 Public Class ProductosDAO
     Private conexion As New SqlConnection("Server=PC;Database=GestorProDb;Trusted_Connection=True;")
 
+
+
+
     Public Function ObtenerTodosLosProductos() As DataTable
         Dim tabla As New DataTable()
         Dim adaptador As New SqlDataAdapter("SELECT * FROM Productos", conexion)
