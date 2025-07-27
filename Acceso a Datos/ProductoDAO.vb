@@ -2,7 +2,7 @@
 
 
 Public Class ProductosDAO
-    Private conexion As New SqlConnection("Server=PC;Database=GestorProDb;Trusted_Connection=True;")
+    Private conexion As New SqlConnection("Server=Localhost;Database=GestorProDb;Trusted_Connection=True;")
 
 
 
