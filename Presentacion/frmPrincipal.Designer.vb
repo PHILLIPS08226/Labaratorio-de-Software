@@ -25,13 +25,14 @@ Partial Class frmPrincipal
         MenuStrip1 = New MenuStrip()
         UsuariosToolStripMenuItem = New ToolStripMenuItem()
         ProductosToolStripMenuItem = New ToolStripMenuItem()
+        MovimientosToolStripMenuItem = New ToolStripMenuItem()
         MenuStrip1.SuspendLayout()
         SuspendLayout()
         ' 
         ' MenuStrip1
         ' 
         MenuStrip1.BackColor = Color.White
-        MenuStrip1.Items.AddRange(New ToolStripItem() {UsuariosToolStripMenuItem, ProductosToolStripMenuItem})
+        MenuStrip1.Items.AddRange(New ToolStripItem() {UsuariosToolStripMenuItem, ProductosToolStripMenuItem, MovimientosToolStripMenuItem})
         MenuStrip1.Location = New Point(0, 0)
         MenuStrip1.Name = "MenuStrip1"
         MenuStrip1.Size = New Size(859, 24)
@@ -50,9 +51,15 @@ Partial Class frmPrincipal
         ProductosToolStripMenuItem.Size = New Size(73, 20)
         ProductosToolStripMenuItem.Text = "Productos"
         ' 
+        ' MovimientosToolStripMenuItem
+        ' 
+        MovimientosToolStripMenuItem.Name = "MovimientosToolStripMenuItem"
+        MovimientosToolStripMenuItem.Size = New Size(89, 20)
+        MovimientosToolStripMenuItem.Text = "Movimientos"
+        ' 
         ' frmPrincipal
         ' 
-        AutoScaleDimensions = New SizeF(7.0F, 15.0F)
+        AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
         BackColor = Color.DarkGray
         BackgroundImage = My.Resources.Resources.imgPrin
@@ -72,4 +79,5 @@ Partial Class frmPrincipal
     Friend WithEvents MenuStrip1 As MenuStrip
     Friend WithEvents UsuariosToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents ProductosToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents MovimientosToolStripMenuItem As ToolStripMenuItem
 End Class

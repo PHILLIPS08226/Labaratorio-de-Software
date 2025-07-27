@@ -4,6 +4,9 @@
     <Compile Update="Presentacion\frmLogin.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Presentacion\frmMovimientos.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Presentacion\frmPrincipal.vb">
       <SubType>Form</SubType>
     </Compile>
@@ -13,5 +16,10 @@
     <Compile Update="Presentacion\frmUsuarios.vb">
       <SubType>Form</SubType>
     </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Presentacion\frmMovimientos.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
   </ItemGroup>
 </Project>

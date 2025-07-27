@@ -4,10 +4,12 @@ Public Class frmLogin
     ' Evento que se ejecuta al cargar el formulario
     Private Sub frmLogin_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         Dim dao As New UsuarioDAO()
+        Dim movDao As New MovimientoDAO()
 
         Try
-            ' Verifica si existen roles, y los crea si no están definidos
+            ' Verifica si existen roles y tipos de movimiento, y los crea si no están definidos
             dao.VerificarYCrearRoles()
+            movDao.VerificarYCrearTiposMovimiento()
 
             ' Comprueba si hay usuarios registrados en el sistema
             If Not dao.HayUsuariosRegistrados() Then

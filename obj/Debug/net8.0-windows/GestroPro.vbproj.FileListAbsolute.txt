@@ -56,3 +56,4 @@ C:\Users\ilanr\source\repos\GestroPro\obj\Debug\net8.0-windows\refint\GestroPro.
 C:\Users\ilanr\source\repos\GestroPro\obj\Debug\net8.0-windows\GestroPro.pdb
 C:\Users\ilanr\source\repos\GestroPro\obj\Debug\net8.0-windows\GestroPro.genruntimeconfig.cache
 C:\Users\ilanr\source\repos\GestroPro\obj\Debug\net8.0-windows\ref\GestroPro.dll
+C:\Users\ilanr\source\repos\GestroPro\obj\Debug\net8.0-windows\GestroPro.frmMovimientos.resources

@@ -9,7 +9,7 @@
     End Sub
 
     Private Sub frmPrincipal_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        ' 🚫 Si no es admin (ID_Rol ≠ 1), desactiva el menú de Usuarios
+        '  Si no es admin (ID_Rol ≠ 1), desactiva el menú de Usuarios
         If usuarioActual.RolId <> 1 Then
             UsuariosToolStripMenuItem.Enabled = False
         End If
@@ -36,5 +36,8 @@
         OpenChildForm(frmProductos)
     End Sub
 
-
+    Private Sub MovimientosToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles MovimientosToolStripMenuItem.Click
+        Dim frm As New frmMovimientos(usuarioActual)
+        OpenChildForm(frm)
+    End Sub
 End Class
