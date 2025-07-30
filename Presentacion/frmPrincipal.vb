@@ -32,12 +32,17 @@
     End Sub
 
     Private Sub ProductosToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles ProductosToolStripMenuItem.Click
-        Dim frmProductos As New frmProductos()
+        Dim frmProductos As New frmProductos(usuarioActual)
         OpenChildForm(frmProductos)
     End Sub
 
     Private Sub MovimientosToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles MovimientosToolStripMenuItem.Click
         Dim frm As New frmMovimientos(usuarioActual)
+        OpenChildForm(frm)
+    End Sub
+
+    Private Sub AuditoriasToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles AuditoriasToolStripMenuItem.Click
+        Dim frm As New frmAuditorias()
         OpenChildForm(frm)
     End Sub
 End Class

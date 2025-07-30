@@ -26,13 +26,14 @@ Partial Class frmPrincipal
         UsuariosToolStripMenuItem = New ToolStripMenuItem()
         ProductosToolStripMenuItem = New ToolStripMenuItem()
         MovimientosToolStripMenuItem = New ToolStripMenuItem()
+        AuditoriasToolStripMenuItem = New ToolStripMenuItem()
         MenuStrip1.SuspendLayout()
         SuspendLayout()
         ' 
         ' MenuStrip1
         ' 
         MenuStrip1.BackColor = Color.White
-        MenuStrip1.Items.AddRange(New ToolStripItem() {UsuariosToolStripMenuItem, ProductosToolStripMenuItem, MovimientosToolStripMenuItem})
+        MenuStrip1.Items.AddRange(New ToolStripItem() {UsuariosToolStripMenuItem, ProductosToolStripMenuItem, MovimientosToolStripMenuItem, AuditoriasToolStripMenuItem})
         MenuStrip1.Location = New Point(0, 0)
         MenuStrip1.Name = "MenuStrip1"
         MenuStrip1.Size = New Size(859, 24)
@@ -57,6 +58,12 @@ Partial Class frmPrincipal
         MovimientosToolStripMenuItem.Size = New Size(89, 20)
         MovimientosToolStripMenuItem.Text = "Movimientos"
         ' 
+        ' AuditoriasToolStripMenuItem
+        ' 
+        AuditoriasToolStripMenuItem.Name = "AuditoriasToolStripMenuItem"
+        AuditoriasToolStripMenuItem.Size = New Size(73, 20)
+        AuditoriasToolStripMenuItem.Text = "Auditorias"
+        ' 
         ' frmPrincipal
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
@@ -80,4 +87,5 @@ Partial Class frmPrincipal
     Friend WithEvents UsuariosToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents ProductosToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents MovimientosToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents AuditoriasToolStripMenuItem As ToolStripMenuItem
 End Class

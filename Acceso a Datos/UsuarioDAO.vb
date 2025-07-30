@@ -240,4 +240,25 @@ Public Class UsuarioDAO
         End Try
     End Function
 
+    Public Function BuscarPorNombre(nombre As String) As DataTable
+        Const sql As String = "
+        SELECT 
+            ID_Usuario,
+            Nombre_Usuario AS Nombre
+          FROM Usuarios
+         WHERE Nombre_Usuario LIKE @nombre
+         ORDER BY Nombre_Usuario"
+
+        Using conn As New SqlConnection(_conexionString),
+          cmd As New SqlCommand(sql, conn),
+          da As New SqlDataAdapter(cmd)
+
+            cmd.Parameters.AddWithValue("@nombre", "%" & nombre & "%")
+            Dim dt As New DataTable()
+            da.Fill(dt)
+            Return dt
+        End Using
+    End Function
+
+
 End Class

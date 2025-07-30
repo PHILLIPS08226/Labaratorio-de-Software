@@ -178,11 +178,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ilanr\\source\\repos\\GestroPro\\GestroPro.vbproj",
+      "projectUniqueName": "C:\\Users\\ilanr\\Source\\Repos\\Labaratorio-de-Software\\GestroPro.vbproj",
       "projectName": "GestroPro",
-      "projectPath": "C:\\Users\\ilanr\\source\\repos\\GestroPro\\GestroPro.vbproj",
+      "projectPath": "C:\\Users\\ilanr\\Source\\Repos\\Labaratorio-de-Software\\GestroPro.vbproj",
       "packagesPath": "C:\\Users\\ilanr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ilanr\\source\\repos\\GestroPro\\obj\\",
+      "outputPath": "C:\\Users\\ilanr\\Source\\Repos\\Labaratorio-de-Software\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

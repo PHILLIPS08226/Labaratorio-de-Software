@@ -9,28 +9,22 @@ Public Class MovimientoDAO
         Try
             Using conn As New SqlConnection(conexion)
                 conn.Open()
-
-                ' Comando SQL parametrizado para insertar el movimiento
-                Dim query As String = "
-                    INSERT INTO Movimientos (ID_Producto, ID_Usuario, ID_Tipo, Cantidad, Fecha)
-                    VALUES (@producto, @usuario, @tipo, @cantidad, GETDATE())"
-
-                Using cmd As New SqlCommand(query, conn)
-                    ' Cargar parámetros con los datos del movimiento
+                Const sql As String =
+                    "INSERT INTO Movimientos (ID_Producto, ID_Usuario, ID_Tipo, Cantidad, Fecha)
+                     VALUES (@producto, @usuario, @tipo, @cantidad, GETDATE())"
+                Using cmd As New SqlCommand(sql, conn)
                     cmd.Parameters.AddWithValue("@producto", mov.IdProducto)
                     cmd.Parameters.AddWithValue("@usuario", mov.IdUsuario)
                     cmd.Parameters.AddWithValue("@tipo", mov.IdTipo)
                     cmd.Parameters.AddWithValue("@cantidad", mov.Cantidad)
-
-                    ' Ejecutar e indicar si se afectó al menos una fila
                     Return cmd.ExecuteNonQuery() > 0
                 End Using
             End Using
         Catch ex As Exception
-            ' Captura y lanza error específico de inserción
             Throw New Exception("Error al insertar movimiento: " & ex.Message)
         End Try
     End Function
+
 
     ' Verifica si existen los tipos de movimiento y los crea si no existen
     Public Sub VerificarYCrearTiposMovimiento()

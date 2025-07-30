@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("GestroPro"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f8c8005945aacfe69490c4742209f38086fcb86"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e04f5b3454052eb39438c78650fa245bf913fa2"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("GestroPro"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("GestroPro"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

@@ -29,4 +29,10 @@ Public Class UsuarioBLL
         dao.VerificarYCrearRoles()
     End Sub
 
+    Public Function BuscarUsuarios(nombre As String) As DataTable
+        Dim dao As New UsuarioDAO()
+        Return dao.BuscarPorNombre(nombre)
+    End Function
+
+
 End Class

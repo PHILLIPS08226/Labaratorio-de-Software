@@ -1,4 +1,6 @@
 ﻿Public Class frmMovimientos
+    Private movBLL As New MovimientoBLL()
+    Private prodBLL As New ProductosBLL()
     ' Usuario actualmente logueado en el sistema
     Private usuarioLogueado As Usuario
 
@@ -23,14 +25,18 @@
     End Sub
 
     ' Evento que guarda el movimiento en base de datos
-    Private Sub btnGuardarMovimiento_Click(sender As Object, e As EventArgs) Handles btnGuardarMovimiento.Click
-        ' Validar que se haya seleccionado un producto
+    Private Sub btnGuardarMovimiento_Click(
+        sender As Object,
+        e As EventArgs
+    ) Handles btnGuardarMovimiento.Click
+
+        ' Validar selección de producto
         If cmbProducto.SelectedIndex = -1 Then
             MessageBox.Show("Seleccione un producto.")
             Return
         End If
 
-        ' Detectar el tipo de movimiento seleccionado (Entrada/Salida)
+        ' Determinar tipo de movimiento
         Dim tipoNombre As String = ""
         If rdbEntrada.Checked Then
             tipoNombre = "Entrada"
@@ -41,32 +47,33 @@
             Return
         End If
 
-        ' Obtener el ID numérico del tipo de movimiento desde la BLL
+        ' Obtener ID de tipo
         Dim tipoId As Integer
         Try
-            tipoId = bll.ObtenerIdTipoMovimiento(tipoNombre)
+            tipoId = movBLL.ObtenerIdTipoMovimiento(tipoNombre)
         Catch ex As Exception
             MessageBox.Show("Error al obtener el tipo de movimiento: " & ex.Message)
             Return
         End Try
 
-        ' Crear y poblar el objeto Movimiento con los datos seleccionados
+        ' Construir objeto Movimiento
         Dim mov As New Movimiento With {
-            .IdProducto = CInt(cmbProducto.SelectedValue),
-            .IdUsuario = usuarioLogueado.IdUsuario,
-            .IdTipo = tipoId,
-            .Cantidad = CInt(nudCantidad.Value)
-        }
+        .IdProducto = CInt(cmbProducto.SelectedValue),
+        .IdUsuario = usuarioLogueado.IdUsuario,
+        .IdTipo = tipoId,
+        .Cantidad = CInt(nudCantidad.Value)
+    }
 
-        ' Registrar el movimiento en la BLL y validar resultado
+        ' Invocar BLL para registrar (incluye auditoría)
         Try
-            If bll.RegistrarMovimiento(mov) Then
+            If movBLL.RegistrarMovimiento(mov) Then
                 MessageBox.Show("Movimiento registrado correctamente.")
-                CargarMovimientosRecientes() ' Refrescar la grilla
-                LimpiarCampos()              ' Restablecer controles de entrada
+                CargarMovimientosRecientes()
+                LimpiarCampos()
             Else
-                MessageBox.Show("Error al registrar movimiento.")
+                MessageBox.Show("Ocurrió un problema al registrar el movimiento.")
             End If
+
         Catch ex As Exception
             MessageBox.Show("Error: " & ex.Message)
         End Try

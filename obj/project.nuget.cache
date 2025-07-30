@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4dnHXuSELBM=",
+  "dgSpecHash": "/gmm1VP30XQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ilanr\\source\\repos\\GestroPro\\GestroPro.vbproj",
+  "projectFilePath": "C:\\Users\\ilanr\\Source\\Repos\\Labaratorio-de-Software\\GestroPro.vbproj",
   "expectedPackageFiles": [
     "C:\\Users\\ilanr\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\ilanr\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",

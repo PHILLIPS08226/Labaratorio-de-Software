@@ -1,7 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ilanr\\source\\repos\\GestroPro\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\ilanr\\source\\repos\\Labaratorio-de-Software\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|c:\\users\\ilanr\\source\\repos\\labaratorio-de-software\\presentacion\\frmprincipal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|solutionrelative:presentacion\\frmprincipal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +23,18 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmPrincipal.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ilanr\\source\\repos\\Labaratorio-de-Software\\Presentacion\\frmPrincipal.vb",
+              "RelativeDocumentMoniker": "Presentacion\\frmPrincipal.vb",
+              "ToolTip": "C:\\Users\\ilanr\\source\\repos\\Labaratorio-de-Software\\Presentacion\\frmPrincipal.vb [Design]",
+              "RelativeToolTip": "Presentacion\\frmPrincipal.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-30T21:46:41.521Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

@@ -1,6 +1,14 @@
 ﻿Imports System.Data.SqlClient
 Public Class frmProductos
     Private dao As New ProductosDAO
+    Private usuarioLogueado As Usuario
+    Private bll As New ProductosBLL()
+
+    Public Sub New(usuario As Usuario)
+        InitializeComponent()
+        Me.usuarioLogueado = usuario
+    End Sub
+
     Private Sub CargarProductos()
         Dim dt As DataTable = dao.ObtenerTodosLosProductos()
         dgvProductos.DataSource = dt
@@ -33,48 +41,63 @@ Public Class frmProductos
     End Sub
 
     Private Sub btnGuardar_Click(sender As Object, e As EventArgs) Handles btnGuardar.Click
-        Dim producto As New Producto()
-        producto.Nombre = txtNombre.Text
-        producto.Descripcion = txtDescripcion.Text
-        producto.StockActual = Integer.Parse(txtStockActual.Text)
-        producto.StockMinimo = Integer.Parse(txtStockMinimo.Text)
-        producto.FechaRegistro = dtpFecharegistro.Value
+        Dim prod As New Producto() With {
+            .Nombre = txtNombre.Text,
+            .Descripcion = txtDescripcion.Text,
+            .StockActual = Integer.Parse(txtStockActual.Text),
+            .StockMinimo = Integer.Parse(txtStockMinimo.Text),
+            .FechaRegistro = dtpFecharegistro.Value
+        }
 
-        dao.InsertarProducto(producto)
-        MessageBox.Show("¡Producto guardado correctamente!")
-        CargarProductos()
-        LimpiarCampos()
+        If bll.InsertarProducto(prod, usuarioLogueado.IdUsuario) Then
+            MessageBox.Show("¡Producto guardado correctamente!")
+            CargarProductos()
+            LimpiarCampos()
+        Else
+            MessageBox.Show("Error al guardar producto.")
+        End If
     End Sub
 
+
     Private Sub btnEditar_Click(sender As Object, e As EventArgs) Handles btnEditar.Click
-        If txtNombre.Text = "" Then
-            MessageBox.Show("Ingresa el nombre del producto que deseas editar.")
-            Exit Sub
+        If String.IsNullOrWhiteSpace(txtNombre.Text) Then
+            MessageBox.Show("Ingresa el nombre del producto a editar.")
+            Return
         End If
 
-        Dim producto As New Producto()
-        producto.Nombre = txtNombre.Text
-        producto.Descripcion = txtDescripcion.Text
-        producto.StockActual = Integer.Parse(txtStockActual.Text)
-        producto.StockMinimo = Integer.Parse(txtStockMinimo.Text)
-        producto.FechaRegistro = dtpFecharegistro.Value
+        Dim prod As New Producto() With {
+            .Nombre = txtNombre.Text,
+            .Descripcion = txtDescripcion.Text,
+            .StockActual = Integer.Parse(txtStockActual.Text),
+            .StockMinimo = Integer.Parse(txtStockMinimo.Text),
+            .FechaRegistro = dtpFecharegistro.Value
+        }
 
-
-        MessageBox.Show("¡Producto editado correctamente!")
-        LimpiarCampos()
+        If bll.EditarProducto(prod, usuarioLogueado.IdUsuario) Then
+            MessageBox.Show("¡Producto editado correctamente!")
+            CargarProductos()
+            LimpiarCampos()
+        Else
+            MessageBox.Show("Error al editar producto.")
+        End If
     End Sub
 
 
     Private Sub btnEliminar_Click(sender As Object, e As EventArgs) Handles btnEliminar.Click
-        If txtNombre.Text = "" Then
-            MessageBox.Show("Especifica el nombre del producto que deseas eliminar.")
-            Exit Sub
+        If String.IsNullOrWhiteSpace(txtNombre.Text) Then
+            MessageBox.Show("Especifica el nombre del producto a eliminar.")
+            Return
         End If
 
-        dao.EliminarPorNombre(txtNombre.Text)
-        MessageBox.Show("¡Producto eliminado exitosamente!")
-        LimpiarCampos()
+        If bll.EliminarProducto(txtNombre.Text, usuarioLogueado.IdUsuario) Then
+            MessageBox.Show("¡Producto eliminado exitosamente!")
+            CargarProductos()
+            LimpiarCampos()
+        Else
+            MessageBox.Show("Error al eliminar producto.")
+        End If
     End Sub
+
 
 
 
