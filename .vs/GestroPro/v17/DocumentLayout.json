@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ilanr\\source\\repos\\Labaratorio-de-Software\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|c:\\users\\ilanr\\source\\repos\\labaratorio-de-software\\presentacion\\frmprincipal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|solutionrelative:presentacion\\frmprincipal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|c:\\users\\ilanr\\source\\repos\\labaratorio-de-software\\presentacion\\frmprincipal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|solutionrelative:presentacion\\frmprincipal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     }
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "frmPrincipal.vb",
+              "DocumentMoniker": "C:\\Users\\ilanr\\source\\repos\\Labaratorio-de-Software\\Presentacion\\frmPrincipal.vb",
+              "RelativeDocumentMoniker": "Presentacion\\frmPrincipal.vb",
+              "ToolTip": "C:\\Users\\ilanr\\source\\repos\\Labaratorio-de-Software\\Presentacion\\frmPrincipal.vb",
+              "RelativeToolTip": "Presentacion\\frmPrincipal.vb",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwDYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-31T01:44:19.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "frmPrincipal.vb [Design]",
               "DocumentMoniker": "C:\\Users\\ilanr\\source\\repos\\Labaratorio-de-Software\\Presentacion\\frmPrincipal.vb",
               "RelativeDocumentMoniker": "Presentacion\\frmPrincipal.vb",

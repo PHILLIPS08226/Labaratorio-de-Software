@@ -12,6 +12,7 @@
         '  Si no es admin (ID_Rol ≠ 1), desactiva el menú de Usuarios
         If usuarioActual.RolId <> 1 Then
             UsuariosToolStripMenuItem.Enabled = False
+            AuditoriasToolStripMenuItem.Enabled = False
         End If
     End Sub
 
@@ -44,5 +45,11 @@
     Private Sub AuditoriasToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles AuditoriasToolStripMenuItem.Click
         Dim frm As New frmAuditorias()
         OpenChildForm(frm)
+    End Sub
+
+    Private Sub CerrarSesionToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles CerrarSesionToolStripMenuItem.Click
+        Dim frm As New frmLogin()
+        frm.Show()
+        Me.Close()
     End Sub
 End Class
