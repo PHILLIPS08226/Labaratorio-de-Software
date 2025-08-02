@@ -1,0 +1,122 @@
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main (4)\Labaratorio-de-Software-main\bin\Debug\net8.0-windows\GestroPro.exe
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main (4)\Labaratorio-de-Software-main\bin\Debug\net8.0-windows\GestroPro.deps.json
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main (4)\Labaratorio-de-Software-main\bin\Debug\net8.0-windows\GestroPro.runtimeconfig.json
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main (4)\Labaratorio-de-Software-main\bin\Debug\net8.0-windows\GestroPro.dll
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main (4)\Labaratorio-de-Software-main\bin\Debug\net8.0-windows\GestroPro.pdb
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main (4)\Labaratorio-de-Software-main\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main (4)\Labaratorio-de-Software-main\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main (4)\Labaratorio-de-Software-main\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main (4)\Labaratorio-de-Software-main\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main (4)\Labaratorio-de-Software-main\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main (4)\Labaratorio-de-Software-main\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main (4)\Labaratorio-de-Software-main\obj\Debug\net8.0-windows\GestroPro.vbproj.AssemblyReference.cache
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main (4)\Labaratorio-de-Software-main\obj\Debug\net8.0-windows\GestroPro.frmLogin.resources
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main (4)\Labaratorio-de-Software-main\obj\Debug\net8.0-windows\GestroPro.frmPrincipal.resources
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main (4)\Labaratorio-de-Software-main\obj\Debug\net8.0-windows\GestroPro.frmProductos.resources
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main (4)\Labaratorio-de-Software-main\obj\Debug\net8.0-windows\GestroPro.frmUsuarios.resources
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main (4)\Labaratorio-de-Software-main\obj\Debug\net8.0-windows\GestroPro.vbproj.GenerateResource.cache
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main (4)\Labaratorio-de-Software-main\obj\Debug\net8.0-windows\GestroPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main (4)\Labaratorio-de-Software-main\obj\Debug\net8.0-windows\GestroPro.AssemblyInfoInputs.cache
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main (4)\Labaratorio-de-Software-main\obj\Debug\net8.0-windows\GestroPro.AssemblyInfo.vb
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main (4)\Labaratorio-de-Software-main\obj\Debug\net8.0-windows\GestroPro.vbproj.CoreCompileInputs.cache
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main (4)\Labaratorio-de-Software-main\obj\Debug\net8.0-windows\GestroPro.vbproj.Up2Date
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main (4)\Labaratorio-de-Software-main\obj\Debug\net8.0-windows\GestroPro.dll
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main (4)\Labaratorio-de-Software-main\obj\Debug\net8.0-windows\refint\GestroPro.dll
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main (4)\Labaratorio-de-Software-main\obj\Debug\net8.0-windows\GestroPro.pdb
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main (4)\Labaratorio-de-Software-main\obj\Debug\net8.0-windows\GestroPro.genruntimeconfig.cache
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main (4)\Labaratorio-de-Software-main\obj\Debug\net8.0-windows\ref\GestroPro.dll
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main (4)\Labaratorio-de-Software-main\obj\Debug\net8.0-windows\GestroPro.Resources.resources
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main (4)\Labaratorio-de-Software-main\obj\Debug\net8.0-windows\GestroPro.sourcelink.json
+C:\Users\ilanr\source\repos\GestroPro\bin\Debug\net8.0-windows\GestroPro.exe
+C:\Users\ilanr\source\repos\GestroPro\bin\Debug\net8.0-windows\GestroPro.deps.json
+C:\Users\ilanr\source\repos\GestroPro\bin\Debug\net8.0-windows\GestroPro.runtimeconfig.json
+C:\Users\ilanr\source\repos\GestroPro\bin\Debug\net8.0-windows\GestroPro.dll
+C:\Users\ilanr\source\repos\GestroPro\bin\Debug\net8.0-windows\GestroPro.pdb
+C:\Users\ilanr\source\repos\GestroPro\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\ilanr\source\repos\GestroPro\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ilanr\source\repos\GestroPro\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ilanr\source\repos\GestroPro\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ilanr\source\repos\GestroPro\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\ilanr\source\repos\GestroPro\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\ilanr\source\repos\GestroPro\obj\Debug\net8.0-windows\GestroPro.vbproj.AssemblyReference.cache
+C:\Users\ilanr\source\repos\GestroPro\obj\Debug\net8.0-windows\GestroPro.Resources.resources
+C:\Users\ilanr\source\repos\GestroPro\obj\Debug\net8.0-windows\GestroPro.frmLogin.resources
+C:\Users\ilanr\source\repos\GestroPro\obj\Debug\net8.0-windows\GestroPro.frmPrincipal.resources
+C:\Users\ilanr\source\repos\GestroPro\obj\Debug\net8.0-windows\GestroPro.frmProductos.resources
+C:\Users\ilanr\source\repos\GestroPro\obj\Debug\net8.0-windows\GestroPro.frmUsuarios.resources
+C:\Users\ilanr\source\repos\GestroPro\obj\Debug\net8.0-windows\GestroPro.vbproj.GenerateResource.cache
+C:\Users\ilanr\source\repos\GestroPro\obj\Debug\net8.0-windows\GestroPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilanr\source\repos\GestroPro\obj\Debug\net8.0-windows\GestroPro.AssemblyInfoInputs.cache
+C:\Users\ilanr\source\repos\GestroPro\obj\Debug\net8.0-windows\GestroPro.AssemblyInfo.vb
+C:\Users\ilanr\source\repos\GestroPro\obj\Debug\net8.0-windows\GestroPro.vbproj.CoreCompileInputs.cache
+C:\Users\ilanr\source\repos\GestroPro\obj\Debug\net8.0-windows\GestroPro.sourcelink.json
+C:\Users\ilanr\source\repos\GestroPro\obj\Debug\net8.0-windows\GestroPro.vbproj.Up2Date
+C:\Users\ilanr\source\repos\GestroPro\obj\Debug\net8.0-windows\GestroPro.dll
+C:\Users\ilanr\source\repos\GestroPro\obj\Debug\net8.0-windows\refint\GestroPro.dll
+C:\Users\ilanr\source\repos\GestroPro\obj\Debug\net8.0-windows\GestroPro.pdb
+C:\Users\ilanr\source\repos\GestroPro\obj\Debug\net8.0-windows\GestroPro.genruntimeconfig.cache
+C:\Users\ilanr\source\repos\GestroPro\obj\Debug\net8.0-windows\ref\GestroPro.dll
+C:\Users\ilanr\source\repos\GestroPro\obj\Debug\net8.0-windows\GestroPro.frmMovimientos.resources
+C:\Users\ilanr\Source\Repos\Labaratorio-de-Software\bin\Debug\net8.0-windows\GestroPro.exe
+C:\Users\ilanr\Source\Repos\Labaratorio-de-Software\bin\Debug\net8.0-windows\GestroPro.deps.json
+C:\Users\ilanr\Source\Repos\Labaratorio-de-Software\bin\Debug\net8.0-windows\GestroPro.runtimeconfig.json
+C:\Users\ilanr\Source\Repos\Labaratorio-de-Software\bin\Debug\net8.0-windows\GestroPro.dll
+C:\Users\ilanr\Source\Repos\Labaratorio-de-Software\bin\Debug\net8.0-windows\GestroPro.pdb
+C:\Users\ilanr\Source\Repos\Labaratorio-de-Software\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\ilanr\Source\Repos\Labaratorio-de-Software\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ilanr\Source\Repos\Labaratorio-de-Software\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ilanr\Source\Repos\Labaratorio-de-Software\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ilanr\Source\Repos\Labaratorio-de-Software\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\ilanr\Source\Repos\Labaratorio-de-Software\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\ilanr\Source\Repos\Labaratorio-de-Software\obj\Debug\net8.0-windows\GestroPro.vbproj.AssemblyReference.cache
+C:\Users\ilanr\Source\Repos\Labaratorio-de-Software\obj\Debug\net8.0-windows\GestroPro.Resources.resources
+C:\Users\ilanr\Source\Repos\Labaratorio-de-Software\obj\Debug\net8.0-windows\GestroPro.frmLogin.resources
+C:\Users\ilanr\Source\Repos\Labaratorio-de-Software\obj\Debug\net8.0-windows\GestroPro.frmMovimientos.resources
+C:\Users\ilanr\Source\Repos\Labaratorio-de-Software\obj\Debug\net8.0-windows\GestroPro.frmPrincipal.resources
+C:\Users\ilanr\Source\Repos\Labaratorio-de-Software\obj\Debug\net8.0-windows\GestroPro.frmProductos.resources
+C:\Users\ilanr\Source\Repos\Labaratorio-de-Software\obj\Debug\net8.0-windows\GestroPro.frmUsuarios.resources
+C:\Users\ilanr\Source\Repos\Labaratorio-de-Software\obj\Debug\net8.0-windows\GestroPro.vbproj.GenerateResource.cache
+C:\Users\ilanr\Source\Repos\Labaratorio-de-Software\obj\Debug\net8.0-windows\GestroPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilanr\Source\Repos\Labaratorio-de-Software\obj\Debug\net8.0-windows\GestroPro.AssemblyInfoInputs.cache
+C:\Users\ilanr\Source\Repos\Labaratorio-de-Software\obj\Debug\net8.0-windows\GestroPro.AssemblyInfo.vb
+C:\Users\ilanr\Source\Repos\Labaratorio-de-Software\obj\Debug\net8.0-windows\GestroPro.vbproj.CoreCompileInputs.cache
+C:\Users\ilanr\Source\Repos\Labaratorio-de-Software\obj\Debug\net8.0-windows\GestroPro.sourcelink.json
+C:\Users\ilanr\Source\Repos\Labaratorio-de-Software\obj\Debug\net8.0-windows\GestroPro.vbproj.Up2Date
+C:\Users\ilanr\Source\Repos\Labaratorio-de-Software\obj\Debug\net8.0-windows\GestroPro.dll
+C:\Users\ilanr\Source\Repos\Labaratorio-de-Software\obj\Debug\net8.0-windows\refint\GestroPro.dll
+C:\Users\ilanr\Source\Repos\Labaratorio-de-Software\obj\Debug\net8.0-windows\GestroPro.pdb
+C:\Users\ilanr\Source\Repos\Labaratorio-de-Software\obj\Debug\net8.0-windows\GestroPro.genruntimeconfig.cache
+C:\Users\ilanr\Source\Repos\Labaratorio-de-Software\obj\Debug\net8.0-windows\ref\GestroPro.dll
+C:\Users\ilanr\Source\Repos\Labaratorio-de-Software\obj\Debug\net8.0-windows\GestroPro.frmAuditorias.resources
+C:\Users\ilanr\Source\Repos\Labaratorio-de-Software\bin\Debug\net8.0-windows\GestroPro.dll.config
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main\Labaratorio-de-Software-main\bin\Debug\net8.0-windows\GestroPro.exe
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main\Labaratorio-de-Software-main\bin\Debug\net8.0-windows\GestroPro.dll.config
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main\Labaratorio-de-Software-main\bin\Debug\net8.0-windows\GestroPro.deps.json
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main\Labaratorio-de-Software-main\bin\Debug\net8.0-windows\GestroPro.runtimeconfig.json
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main\Labaratorio-de-Software-main\bin\Debug\net8.0-windows\GestroPro.dll
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main\Labaratorio-de-Software-main\bin\Debug\net8.0-windows\GestroPro.pdb
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main\Labaratorio-de-Software-main\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main\Labaratorio-de-Software-main\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main\Labaratorio-de-Software-main\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main\Labaratorio-de-Software-main\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main\Labaratorio-de-Software-main\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main\Labaratorio-de-Software-main\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main\Labaratorio-de-Software-main\obj\Debug\net8.0-windows\GestroPro.vbproj.AssemblyReference.cache
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main\Labaratorio-de-Software-main\obj\Debug\net8.0-windows\GestroPro.Resources.resources
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main\Labaratorio-de-Software-main\obj\Debug\net8.0-windows\GestroPro.frmAuditorias.resources
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main\Labaratorio-de-Software-main\obj\Debug\net8.0-windows\GestroPro.frmLogin.resources
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main\Labaratorio-de-Software-main\obj\Debug\net8.0-windows\GestroPro.frmMovimientos.resources
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main\Labaratorio-de-Software-main\obj\Debug\net8.0-windows\GestroPro.frmPrincipal.resources
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main\Labaratorio-de-Software-main\obj\Debug\net8.0-windows\GestroPro.frmProductos.resources
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main\Labaratorio-de-Software-main\obj\Debug\net8.0-windows\GestroPro.frmUsuarios.resources
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main\Labaratorio-de-Software-main\obj\Debug\net8.0-windows\GestroPro.vbproj.GenerateResource.cache
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main\Labaratorio-de-Software-main\obj\Debug\net8.0-windows\GestroPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main\Labaratorio-de-Software-main\obj\Debug\net8.0-windows\GestroPro.AssemblyInfoInputs.cache
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main\Labaratorio-de-Software-main\obj\Debug\net8.0-windows\GestroPro.AssemblyInfo.vb
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main\Labaratorio-de-Software-main\obj\Debug\net8.0-windows\GestroPro.vbproj.CoreCompileInputs.cache
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main\Labaratorio-de-Software-main\obj\Debug\net8.0-windows\GestroPro.vbproj.Up2Date
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main\Labaratorio-de-Software-main\obj\Debug\net8.0-windows\GestroPro.dll
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main\Labaratorio-de-Software-main\obj\Debug\net8.0-windows\refint\GestroPro.dll
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main\Labaratorio-de-Software-main\obj\Debug\net8.0-windows\GestroPro.pdb
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main\Labaratorio-de-Software-main\obj\Debug\net8.0-windows\GestroPro.genruntimeconfig.cache
+C:\Users\dayer\Downloads\Labaratorio-de-Software-main\Labaratorio-de-Software-main\obj\Debug\net8.0-windows\ref\GestroPro.dll
