@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main\\Labaratorio-de-Software-main\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|c:\\users\\dayer\\downloads\\labaratorio-de-software-main\\labaratorio-de-software-main\\presentacion\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|solutionrelative:presentacion\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|c:\\users\\dayer\\downloads\\labaratorio-de-software-main\\labaratorio-de-software-main\\presentacion\\frmusuarios.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|solutionrelative:presentacion\\frmusuarios.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|c:\\users\\dayer\\downloads\\labaratorio-de-software-main\\labaratorio-de-software-main\\presentacion\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|solutionrelative:presentacion\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|c:\\users\\dayer\\downloads\\labaratorio-de-software-main\\labaratorio-de-software-main\\presentacion\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|solutionrelative:presentacion\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|c:\\users\\dayer\\downloads\\labaratorio-de-software-main\\labaratorio-de-software-main\\presentacion\\frmmovimientos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{7D879A84-6F3D-4F0A-B440-9E53D5F902D2}|GestroPro.vbproj|solutionrelative:presentacion\\frmmovimientos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
@@ -58,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,7 +94,56 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main\\Labaratorio-de-Software-main\\Presentacion\\Form1.Designer.vb",
+              "RelativeDocumentMoniker": "Presentacion\\Form1.Designer.vb",
+              "ToolTip": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main\\Labaratorio-de-Software-main\\Presentacion\\Form1.Designer.vb",
+              "RelativeToolTip": "Presentacion\\Form1.Designer.vb",
+              "ViewState": "AgIAABgAAAAAAAAAAAAMwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-02T02:40:39.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main\\Labaratorio-de-Software-main\\Presentacion\\Form1.vb",
+              "RelativeDocumentMoniker": "Presentacion\\Form1.vb",
+              "ToolTip": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main\\Labaratorio-de-Software-main\\Presentacion\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-02T02:38:38.427Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmUsuarios.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main\\Labaratorio-de-Software-main\\Presentacion\\frmUsuarios.vb",
+              "RelativeDocumentMoniker": "Presentacion\\frmUsuarios.vb",
+              "ToolTip": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main\\Labaratorio-de-Software-main\\Presentacion\\frmUsuarios.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\frmUsuarios.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-02T02:38:20.778Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Report1.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main\\Labaratorio-de-Software-main\\Presentacion\\Report1.rdlc",
+              "RelativeDocumentMoniker": "Presentacion\\Report1.rdlc",
+              "ToolTip": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main\\Labaratorio-de-Software-main\\Presentacion\\Report1.rdlc [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\Report1.rdlc [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-08-02T02:37:06.02Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "frmMovimientos.vb [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main\\Labaratorio-de-Software-main\\Presentacion\\frmMovimientos.vb",
               "RelativeDocumentMoniker": "Presentacion\\frmMovimientos.vb",
@@ -90,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "frmProductos.vb [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main\\Labaratorio-de-Software-main\\Presentacion\\frmProductos.vb",
               "RelativeDocumentMoniker": "Presentacion\\frmProductos.vb",
@@ -102,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "frmAuditorias.vb [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main\\Labaratorio-de-Software-main\\Presentacion\\frmAuditorias.vb",
               "RelativeDocumentMoniker": "Presentacion\\frmAuditorias.vb",
@@ -114,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "frmLogin.vb [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main\\Labaratorio-de-Software-main\\Presentacion\\frmLogin.vb",
               "RelativeDocumentMoniker": "Presentacion\\frmLogin.vb",
@@ -126,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "AuditoriaDAO.vb",
               "DocumentMoniker": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main\\Labaratorio-de-Software-main\\Acceso a Datos\\AuditoriaDAO.vb",
               "RelativeDocumentMoniker": "Acceso a Datos\\AuditoriaDAO.vb",
@@ -134,12 +199,11 @@
               "RelativeToolTip": "Acceso a Datos\\AuditoriaDAO.vb",
               "ViewState": "AgIAAAcAAAAAAAAAAAAgwC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-07-31T04:22:53.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-31T04:22:53.962Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "MovimientoDAO.vb",
               "DocumentMoniker": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main\\Labaratorio-de-Software-main\\Acceso a Datos\\MovimientoDAO.vb",
               "RelativeDocumentMoniker": "Acceso a Datos\\MovimientoDAO.vb",
@@ -147,12 +211,11 @@
               "RelativeToolTip": "Acceso a Datos\\MovimientoDAO.vb",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-07-31T04:22:55.946Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-31T04:22:55.946Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "ProductoDAO.vb",
               "DocumentMoniker": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main\\Labaratorio-de-Software-main\\Acceso a Datos\\ProductoDAO.vb",
               "RelativeDocumentMoniker": "Acceso a Datos\\ProductoDAO.vb",
@@ -164,19 +227,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "frmLogin.resx",
               "DocumentMoniker": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main\\Labaratorio-de-Software-main\\Presentacion\\frmLogin.resx",
               "RelativeDocumentMoniker": "Presentacion\\frmLogin.resx",
               "ToolTip": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main\\Labaratorio-de-Software-main\\Presentacion\\frmLogin.resx",
               "RelativeToolTip": "Presentacion\\frmLogin.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-07-31T04:22:50.872Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-31T04:22:50.872Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "frmLogin.Designer.vb",
               "DocumentMoniker": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main\\Labaratorio-de-Software-main\\Presentacion\\frmLogin.Designer.vb",
               "RelativeDocumentMoniker": "Presentacion\\frmLogin.Designer.vb",
@@ -184,12 +246,11 @@
               "RelativeToolTip": "Presentacion\\frmLogin.Designer.vb",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-07-31T04:22:48.928Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-31T04:22:48.928Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "frmPrincipal.vb [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main\\Labaratorio-de-Software-main\\Presentacion\\frmPrincipal.vb",
               "RelativeDocumentMoniker": "Presentacion\\frmPrincipal.vb",
@@ -201,7 +262,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "frmMovimientos.vb",
               "DocumentMoniker": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main\\Labaratorio-de-Software-main\\Presentacion\\frmMovimientos.vb",
               "RelativeDocumentMoniker": "Presentacion\\frmMovimientos.vb",
@@ -213,7 +274,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "frmPrincipal.vb",
               "DocumentMoniker": "C:\\Users\\dayer\\Downloads\\Labaratorio-de-Software-main\\Labaratorio-de-Software-main\\Presentacion\\frmPrincipal.vb",
               "RelativeDocumentMoniker": "Presentacion\\frmPrincipal.vb",
